@@ -1,0 +1,68 @@
+import time
+import os
+import random
+
+os.system("color 0a")
+num = [1,0]
+
+tm = 0
+
+while tm < 30:
+   print(random.randrange(1,5)* "",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),random.randrange(1,5)*"",
+   random.choice(num),
+   ) 
+
+tm = tm+0.1
+time.sleep(0.1)
